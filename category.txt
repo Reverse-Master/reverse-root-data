@@ -1,4 +1,0 @@
-1. Root Tools
-2. File Managers
-3. System Apps
-4. Utilities
