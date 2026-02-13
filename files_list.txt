@@ -1,0 +1,2 @@
+1. category 1, list number 1, name : Root Explorer, description : Advanced file manager, download link : https://raw.githubusercontent.com/Reverse-Master/Reverse-Root-Update/refs/heads/main/bitAIM_AI_Aim_assistance_for_carrom_pool_1.1.18_.apk
+2. category 1, list number 2, name : Titanium Backup, description : Backup tool, download link : https://raw.githubusercontent.com/Reverse-Master/Reverse-Root-Update/refs/heads/main/bitAIM_AI_Aim_assistance_for_carrom_pool_1.1.18_.apk
