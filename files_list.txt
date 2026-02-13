@@ -1,2 +1,0 @@
-1. category 1, list number 1, name : Root Explorer, description : Advanced file manager, download link : https://example.com/root.apk
-2. category 1, list number 2, name : Titanium Backup, description : Backup tool, download link : https://example.com/titanium.apk
